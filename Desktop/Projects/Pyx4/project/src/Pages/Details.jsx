@@ -34,7 +34,7 @@ const Details = (props) => {
                   console.log(name)
                 }} aria-label="Large" aria-describedby="inputGroup-sizing-sm" />
               </InputGroup>
-              <Button onSubmit={} style={{ margin: ".5rem" }} variant="primary">Submit</Button>
+              <Button style={{ margin: ".5rem" }} variant="primary">Submit</Button>
             </Card.Body>
           </Card>
         </div>
