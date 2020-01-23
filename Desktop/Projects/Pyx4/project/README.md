@@ -6,5 +6,8 @@ to run
 3 npm start
 4 go to localhost:3000
 
+code is in APP.js
+
+
 class based components are used
 Please ignore the other components which consists of router and other components that Im working on
